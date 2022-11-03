@@ -1,0 +1,20 @@
+a {
+  color: #179349;
+  text-decoration: none;
+  -moz-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  -webkit-transition: all 0.3s ease-in-out;
+  -ms-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+  outline: none;
+}
+
+h3 {
+  margin-top: 0;
+}
+
+.form-control:focus {
+  box-shadow: none;
+  border-color: #179349;
+}
+

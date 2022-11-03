@@ -1,0 +1,18 @@
+.btn-pagination, .list .input-group button{
+  background: #179349;
+  border-color: #fff;
+  border-radius: 2px;
+  color: #fff;
+}
+
+.btn-pagination:hover, .list .input-group button:hover{
+  background: #fff;
+  color: #179349;
+  border: 1px solid #179349;
+}
+
+.form-select:focus {
+  box-shadow: none;
+  border-color: #179349;
+}
+

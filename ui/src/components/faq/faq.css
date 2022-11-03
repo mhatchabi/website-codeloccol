@@ -1,0 +1,18 @@
+.accordion-button{
+  color: #9F9F9F !important;
+}
+
+.accordion-button:not(.collapsed) {
+  background: white !important;
+  color: #179449 !important;
+}
+
+.accordion-button:focus {
+  border: none !important;
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+#cat_nav a.active svg.before {
+  transform: rotate(90deg);
+}

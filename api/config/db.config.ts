@@ -4,7 +4,7 @@ require('dotenv').config()
 let database: Mongoose.Connection;
 
 export const connect = () => {
-  const url = 'mongodb://192.168.1.4:27017/codeloccol' || process.env.URI;
+  const url = process.env.URI || 'mongodb://192.168.1.4:27017/codeloccol';
 
   if (database) {
     return;

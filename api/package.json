@@ -1,7 +1,7 @@
 {
-  "name": "nodejs-restapi-mongo-ts",
+  "name": "website-codeloccol",
   "version": "1.0.0",
-  "description": "Example Project on how to build and develop REST API with NodeJS and MongoDB",
+  "description": "Codeloccol Website Api",
   "main": "index.js",
   "scripts": {
     "start": "ts-node index.ts",
@@ -12,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bbachi/nodejs-restapi-mongo-ts.git"
+    "url": "git+https://github.com/mhatchabi/website-codeloccol.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bbachi/nodejs-restapi-mongo-ts/issues"
+    "url": "hhttps://github.com/mhatchabi/website-codeloccol/issues"
   },
-  "homepage": "https://github.com/bbachi/nodejs-restapi-mongo-ts#readme",
+  "homepage": "https://github.com/mhatchabi/website-codeloccol#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
